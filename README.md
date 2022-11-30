@@ -2,6 +2,9 @@
 
 ## Live Website Link is [Recycle Mobile](https://recycle-phone.web.app/)
 
+## Admin Email: admin@admin.com
+## Admin pass: admin@admin.com
+
 - Live Server Link is [Recycle Mobile Server Site](https://recycle-phone-server.vercel.app/)
 
 <!-- Makes a bullet point list -->
